@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="MazeSolver/MazeSolver.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MazeSolver/PathFinder.cs">
+    <Files>
+      <File FileName="MazeSolver/MazeSolverMain.cs" Line="45" Column="45" />
+      <File FileName="MazeSolver/PathFinder.cs" Line="9" Column="9" />
+      <File FileName="MazeSolver/MazeNode.cs" Line="15" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MazeSolver>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="Default (Custom 2)" Id="ed40f69c-47a6-4b35-9c2d-cd6a020eefd7" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="./maze3.png ./solvedMaze3.png" WorkingDirectory="/Users/justin/MonoProjects/MazeSolver/working_directory" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.MazeSolver>
+</Properties>
